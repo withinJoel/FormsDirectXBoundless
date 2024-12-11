@@ -37,7 +37,7 @@ Harmonize the user interface across all pages. For example, the design disparity
 
 ## Brand Value
 
-### Negative Reviews from Multiple Sources
+### 9. Negative Reviews from Multiple Sources
 A comparative analysis of review scores highlights areas for improvement:
 - [FileRight Reviews](https://www.reviews.io/company-reviews/store/fileright-com): 2.0
 - [Glassdoor - FileRight](https://www.glassdoor.co.in/Reviews/FileRight-Reviews-E1091389.htm): 2.1  
@@ -51,7 +51,7 @@ A comparative analysis of review scores highlights areas for improvement:
 
 ## Uncategorized
 
-### 9. Head Tag Observations
+### 10. Head Tag Observations
 While examining the head tags on this page:  
 [Petition for Alien Relative (I-130)](https://www.immigrationdirect.com/petition-for-alien-relative-i130-preparation-service/),  
 I noticed the following:
@@ -60,6 +60,6 @@ I noticed the following:
 <meta name="twitter:creator" content="@ashwanth">
 ```
 
-### 10. Footer link not accessible
+### 11. Footer link not accessible
 In the footer section the facebook link does not work.
 - [File Right](https://www.fileright.com/)
