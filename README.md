@@ -61,4 +61,5 @@ I noticed the following:
 ```
 
 ### 10. Footer link not accessible
-`https://www.fileright.com/` in the footer section the facebook link does not work.
+In the footer section the facebook link does not work.
+- [File Right](https://www.fileright.com/)
