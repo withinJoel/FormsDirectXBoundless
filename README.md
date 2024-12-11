@@ -58,3 +58,7 @@ I noticed the following:
 ```html
 <meta name="twitter:site" content="@ashwanth">
 <meta name="twitter:creator" content="@ashwanth">
+```
+
+### 10. Footer link not accessible
+`https://www.fileright.com/` in the footer section the facebook link does not work.
