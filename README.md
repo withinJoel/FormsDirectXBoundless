@@ -9,6 +9,7 @@ This document consolidates suggestions derived from research conducted between N
 
 ### 1. Adopt Material UI
 Material UI has gained significant traction, particularly following the release of Android 12. Its modern design principles align with user expectations, enhancing user engagement and experience.
+![image](https://github.com/user-attachments/assets/f6534e51-10f6-4432-9feb-cf053a051a5c)
 
 ### 2. Simplify Data Eligibility Forms
 Introduce a user-friendly interface to streamline the process of gathering eligible data, ensuring clarity and ease of use.
