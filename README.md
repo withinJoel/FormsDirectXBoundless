@@ -13,9 +13,11 @@ Material UI has gained significant traction, particularly following the release 
 
 ### 2. Simplify Data Eligibility Forms
 Introduce a user-friendly interface to streamline the process of gathering eligible data, ensuring clarity and ease of use.
+![image](https://github.com/user-attachments/assets/d5f063cf-ac58-40b8-b6cd-42b538ba4717)
 
 ### 3. Recommendation System
 Develop a feature to recommend applications based on users' current eligibility criteria, similar to the functionality of Boundless Explore ([Boundless Explore](https://explore.boundless.com/)).
+![image](https://github.com/user-attachments/assets/349974df-eb53-4b53-88f9-bf20de4a4db7)
 
 ### 4. Risk Indicator
 Incorporate a risk indicator to enhance transparency and build trust with users by providing clear insights into potential challenges.
@@ -28,6 +30,7 @@ Ensure the site header remains visible even when users scroll down, as its absen
 
 ### 7. News Page for Immigration Updates
 Create a dedicated page for news and updates related to immigration, keeping users informed of relevant current events.
+![image](https://github.com/user-attachments/assets/9b300ca7-439a-4a0d-b2fc-0863ff657789)
 
 ### 8. Consistent UI Design
 Harmonize the user interface across all pages. For example, the design disparity between these two pages detracts from the user experience:
