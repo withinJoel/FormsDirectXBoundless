@@ -88,5 +88,6 @@ This enhances the user's experience even more.
 
 
 ### Top Competitors
-* `https://www.usapath.com`
-* `https://www.boundless.com/`
+* `https://www.usapath.com` - Functionality seems better 
+* `https://www.boundless.com/` - UI is great
+* `https://www.deel.com` - UI is great
