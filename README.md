@@ -68,11 +68,13 @@ I noticed the following:
 <meta name="twitter:site" content="@ashwanth">
 <meta name="twitter:creator" content="@ashwanth">
 ```
+![image](https://github.com/user-attachments/assets/e69bc1a4-1b90-436e-8c70-e08159cc771a)
 
 ### 11. Footer link not accessible
 In the footer section the facebook link does not work.
 - [File Right](https://www.fileright.com/)
-![Uploading image.png…]()
+![Screenshot 2024-12-15 184526](https://github.com/user-attachments/assets/1a79c79c-e72d-41b4-89c5-96cd9f229084)
+
 
 ### 12. The Visa Suggestion Box is buggy interms of UI
 The drop box is shows on top of the header.
