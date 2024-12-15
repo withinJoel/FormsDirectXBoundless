@@ -37,7 +37,10 @@ Create a dedicated page for news and updates related to immigration, keeping use
 ### 8. Consistent UI Design
 Harmonize the user interface across all pages. For example, the design disparity between these two pages detracts from the user experience:
 - [Green Card Guide](https://www.immigrationdirect.com/green-card-guide/)
+* To recreate: Just go to `www.immigrationdirect.com` then click on the `Green Card`.
+![image](https://github.com/user-attachments/assets/b38ab5b6-b2c9-4c8a-8c7e-40f481265f43)
 - [Home Page](https://www.immigrationdirect.com/)
+![Uploading image.png…]()
 
 ---
 
