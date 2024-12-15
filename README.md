@@ -21,6 +21,7 @@ Develop a feature to recommend applications based on users' current eligibility 
 
 ### 4. Risk Indicator
 Incorporate a risk indicator to enhance transparency and build trust with users by providing clear insights into potential challenges.
+![image](https://github.com/user-attachments/assets/8faa24b8-245c-4412-9b6e-e4b694cae709)
 
 ### 5. Comprehensive Risk Analysis
 Expand risk assessment features to provide users with a holistic analysis of their circumstances.
