@@ -28,6 +28,7 @@ Expand risk assessment features to provide users with a holistic analysis of the
 
 ### 6. Persistent Header Visibility
 Ensure the site header remains visible even when users scroll down, as its absence could reduce indirect brand marketing opportunities.
+![image](https://github.com/user-attachments/assets/301cd668-e225-43d0-a3cf-99c27855c422)
 
 ### 7. News Page for Immigration Updates
 Create a dedicated page for news and updates related to immigration, keeping users informed of relevant current events.
@@ -68,3 +69,11 @@ I noticed the following:
 ### 11. Footer link not accessible
 In the footer section the facebook link does not work.
 - [File Right](https://www.fileright.com/)
+![Uploading image.png…]()
+
+### 12. The Visa Suggestion Box is buggy interms of UI
+The drop box is shows on top of the header.
+Solution: Reduce the `z-index`.
+- [ImmigrationDirect](https://www.immigrationdirect.com/)
+
+![image](https://github.com/user-attachments/assets/ce0a8a41-a3fa-4c84-acd9-3cf9482d30ea)
