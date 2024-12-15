@@ -23,18 +23,15 @@ Develop a feature to recommend applications based on users' current eligibility 
 Incorporate a risk indicator to enhance transparency and build trust with users by providing clear insights into potential challenges.
 ![image](https://github.com/user-attachments/assets/8faa24b8-245c-4412-9b6e-e4b694cae709)
 
-### 5. Comprehensive Risk Analysis
-Expand risk assessment features to provide users with a holistic analysis of their circumstances.
-
-### 6. Persistent Header Visibility
+### 5. Persistent Header Visibility
 Ensure the site header remains visible even when users scroll down, as its absence could reduce indirect brand marketing opportunities.
 ![image](https://github.com/user-attachments/assets/301cd668-e225-43d0-a3cf-99c27855c422)
 
-### 7. News Page for Immigration Updates
+### 6. News Page for Immigration Updates
 Create a dedicated page for news and updates related to immigration, keeping users informed of relevant current events.
 ![image](https://github.com/user-attachments/assets/9b300ca7-439a-4a0d-b2fc-0863ff657789)
 
-### 8. Consistent UI Design
+### 7. Consistent UI Design
 Harmonize the user interface across all pages. For example, the design disparity between these two pages detracts from the user experience:
 - [Green Card Guide](https://www.immigrationdirect.com/green-card-guide/)
 * To recreate: Just go to `www.immigrationdirect.com` then click on the `Green Card`.
@@ -46,7 +43,7 @@ Harmonize the user interface across all pages. For example, the design disparity
 
 ## Brand Value
 
-### 9. Negative Reviews from Multiple Sources
+### 8. Negative Reviews from Multiple Sources
 A comparative analysis of review scores highlights areas for improvement:
 - [FileRight Reviews](https://www.reviews.io/company-reviews/store/fileright-com): 2.0
 - [Glassdoor - FileRight](https://www.glassdoor.co.in/Reviews/FileRight-Reviews-E1091389.htm): 2.1  
@@ -60,7 +57,7 @@ A comparative analysis of review scores highlights areas for improvement:
 
 ## Uncategorized
 
-### 10. Head Tag Observations
+### 9. Head Tag Observations
 While examining the head tags on this page:  
 [Petition for Alien Relative (I-130)](https://www.immigrationdirect.com/petition-for-alien-relative-i130-preparation-service/),  
 I noticed the following:
@@ -70,13 +67,13 @@ I noticed the following:
 ```
 ![image](https://github.com/user-attachments/assets/e69bc1a4-1b90-436e-8c70-e08159cc771a)
 
-### 11. Footer link not accessible
+### 10. Footer link not accessible
 In the footer section the facebook link does not work.
 - [File Right](https://www.fileright.com/)
 ![Screenshot 2024-12-15 184526](https://github.com/user-attachments/assets/1a79c79c-e72d-41b4-89c5-96cd9f229084)
 
 
-### 12. The Visa Suggestion Box is buggy interms of UI
+### 11. The Visa Suggestion Box is buggy interms of UI
 The drop box is shows on top of the header.
 Solution: Reduce the `z-index`.
 - [ImmigrationDirect](https://www.immigrationdirect.com/)
