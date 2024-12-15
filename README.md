@@ -40,7 +40,7 @@ Harmonize the user interface across all pages. For example, the design disparity
 * To recreate: Just go to `www.immigrationdirect.com` then click on the `Green Card`.
 ![image](https://github.com/user-attachments/assets/b38ab5b6-b2c9-4c8a-8c7e-40f481265f43)
 - [Home Page](https://www.immigrationdirect.com/)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/836b7a10-b20a-4eec-bfa9-8b2711f926c5)
 
 ---
 
