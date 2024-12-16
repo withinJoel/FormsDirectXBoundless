@@ -29,7 +29,7 @@
         .then(response => response.text())
         .then(mdContent => {
           // Convert markdown content to HTML
-          const htmlContent = marked(mdContent);
+          const htmlContent = marked.parse(mdContent); // Use marked.parse() in version 4.x
           document.getElementById('content').innerHTML = htmlContent;
         })
         .catch(error => console.error('Error reading the markdown file:', error));
