@@ -97,7 +97,7 @@ This enhances the user's experience even more.
 ![image](https://github.com/user-attachments/assets/9a9315d3-2c71-47b3-ba36-8a1ea86e068e)
 
 ### 14. Able to download the `.htaccess` file via the browser
-- Just go to `https:www.myimigration.com/.htaccess`
+- Just go to `https://www.myimmigration.com/.htaccess`
 
 ### Top Competitors
 * `https://www.usapath.com` - Functionality seems better 
