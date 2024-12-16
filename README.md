@@ -61,10 +61,18 @@ A comparative analysis of review scores highlights areas for improvement:
 While examining the head tags on this page:  
 [Petition for Alien Relative (I-130)](https://www.immigrationdirect.com/petition-for-alien-relative-i130-preparation-service/),  
 I noticed the following:
+* `<meta name="twitter:site" content="@ashwanth">` - It ensures that when a page from the website is shared on Twitter, this handle will be shown as the official source.
+    * Why I think this might be an issue
+      * It may confuse visitors into thinking the employee owns or represents the company.
+      * If the employee leaves, their handle is no longer relevant to the company.
+      * It doesn't align with standard practices where this tag is reserved for the company's branding.
+  
+* `<meta name="twitter:creator" content="@ashwanth">` - This tag defines the Twitter handle of the person who created the content (e.g., an author or contributor). (This does not impact much)
 ```html
 <meta name="twitter:site" content="@ashwanth">
 <meta name="twitter:creator" content="@ashwanth">
 ```
+
 ![image](https://github.com/user-attachments/assets/e69bc1a4-1b90-436e-8c70-e08159cc771a)
 
 ### 10. Footer link not accessible
