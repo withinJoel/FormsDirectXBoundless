@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Markdown to HTML</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    pre {
+      background-color: #f4f4f4;
+      padding: 10px;
+      border: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Readme Content</h1>
+  <div id="content"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    // Function to fetch and render markdown file as HTML
+    function renderMarkdown() {
+      fetch('README.md') // Path to your readme.md file
+        .then(response => response.text())
+        .then(mdContent => {
+          // Convert markdown content to HTML
+          const htmlContent = marked(mdContent);
+          document.getElementById('content').innerHTML = htmlContent;
+        })
+        .catch(error => console.error('Error reading the markdown file:', error));
+    }
+
+    // Call the function to render the markdown on page load
+    renderMarkdown();
+  </script>
+</body>
+</html>
